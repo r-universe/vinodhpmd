@@ -5,6 +5,9 @@
 [submodule "OutbreakR"]
 	path = OutbreakR
 	url = https://github.com/cran/OutbreakR
+[submodule "SampleSizeR"]
+	path = SampleSizeR
+	url = https://github.com/vinodhpmd/samplesizer
 [submodule "inferstat"]
 	path = inferstat
 	url = https://github.com/cran/inferstat
