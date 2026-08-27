@@ -8,6 +8,9 @@
 [submodule "EDAForge"]
 	path = EDAForge
 	url = https://github.com/vinodhpmd/edaforge
+[submodule "ExpDesignR"]
+	path = ExpDesignR
+	url = https://github.com/vinodhpmd/expdesignr
 [submodule "OutbreakR"]
 	path = OutbreakR
 	url = https://github.com/cran/OutbreakR
