@@ -14,6 +14,9 @@
 [submodule "OutbreakR"]
 	path = OutbreakR
 	url = https://github.com/cran/OutbreakR
+[submodule "PropTestR"]
+	path = PropTestR
+	url = https://github.com/vinodhpmd/proptestr
 [submodule "SampleSizeR"]
 	path = SampleSizeR
 	url = https://github.com/vinodhpmd/samplesizer
