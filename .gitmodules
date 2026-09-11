@@ -11,6 +11,9 @@
 [submodule "EpiLossR"]
 	path = EpiLossR
 	url = https://github.com/vinodhpmd/epilossr
+[submodule "EpiQuestionR"]
+	path = EpiQuestionR
+	url = https://github.com/vinodhpmd/epiquestionr
 [submodule "ExpDesignR"]
 	path = ExpDesignR
 	url = https://github.com/vinodhpmd/expdesignr
