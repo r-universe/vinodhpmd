@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AMRsurveilR"]
+	path = AMRsurveilR
+	url = https://github.com/vinodhpmd/amrsurveilr
+[submodule "AutoEDA"]
+	path = AutoEDA
+	url = https://github.com/vinodhpmd/autoeda
 [submodule "DataAudit"]
 	path = DataAudit
 	url = https://github.com/vinodhpmd/dataaudit
@@ -20,6 +26,9 @@
 [submodule "OutbreakR"]
 	path = OutbreakR
 	url = https://github.com/cran/OutbreakR
+[submodule "ProMetaR"]
+	path = ProMetaR
+	url = https://github.com/vinodhpmd/prometar
 [submodule "PropTestR"]
 	path = PropTestR
 	url = https://github.com/vinodhpmd/proptestr
