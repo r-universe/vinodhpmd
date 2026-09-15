@@ -8,6 +8,9 @@
 [submodule "AutoEDA"]
 	path = AutoEDA
 	url = https://github.com/vinodhpmd/autoeda
+[submodule "AutoViz"]
+	path = AutoViz
+	url = https://github.com/vinodhpmd/autoviz
 [submodule "DataAudit"]
 	path = DataAudit
 	url = https://github.com/vinodhpmd/dataaudit
