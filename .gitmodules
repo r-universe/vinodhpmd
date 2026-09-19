@@ -38,6 +38,9 @@
 [submodule "SampleSizeR"]
 	path = SampleSizeR
 	url = https://github.com/vinodhpmd/samplesizer
+[submodule "TrialFlowR"]
+	path = TrialFlowR
+	url = https://github.com/vinodhpmd/trialflowr
 [submodule "inferstat"]
 	path = inferstat
 	url = https://github.com/cran/inferstat
