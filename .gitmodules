@@ -11,12 +11,21 @@
 [submodule "AutoViz"]
 	path = AutoViz
 	url = https://github.com/vinodhpmd/autoviz
+[submodule "BioMixModel"]
+	path = BioMixModel
+	url = https://github.com/vinodhpmd/biomixmodel
+[submodule "CausalLoopAnalytics"]
+	path = CausalLoopAnalytics
+	url = https://github.com/vinodhpmd/causalloopanalytics
 [submodule "DataAudit"]
 	path = DataAudit
 	url = https://github.com/vinodhpmd/dataaudit
 [submodule "EDAForge"]
 	path = EDAForge
 	url = https://github.com/vinodhpmd/edaforge
+[submodule "EconEvalR"]
+	path = EconEvalR
+	url = https://github.com/vinodhpmd/econevalr
 [submodule "EpiLossR"]
 	path = EpiLossR
 	url = https://github.com/vinodhpmd/epilossr
