@@ -50,6 +50,9 @@
 [submodule "TrialFlowR"]
 	path = TrialFlowR
 	url = https://github.com/vinodhpmd/trialflowr
+[submodule "ZooRisk"]
+	path = ZooRisk
+	url = https://github.com/vinodhpmd/zoorisk
 [submodule "inferstat"]
 	path = inferstat
 	url = https://github.com/cran/inferstat
