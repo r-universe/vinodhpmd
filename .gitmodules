@@ -35,6 +35,9 @@
 [submodule "ExpDesignR"]
 	path = ExpDesignR
 	url = https://github.com/vinodhpmd/expdesignr
+[submodule "GeoEpiAI"]
+	path = GeoEpiAI
+	url = https://github.com/cran/GeoEpiAI
 [submodule "OutbreakR"]
 	path = OutbreakR
 	url = https://github.com/cran/OutbreakR
